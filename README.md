@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 SAP Developer | System Analyst | Data analyst | SQL | Python
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My Webpage](http://https://stableboy88.github.io/AllAboutStableboy/)
+* 🖥️  See my portfolio at [My Webpage](https://stableboy88.github.io/AllAboutStableboy/)
 * ✉️  You can contact me at [wutthisaktggs@gmail.com](mailto:wutthisaktggs@gmail.com)
 
 ### Skills
